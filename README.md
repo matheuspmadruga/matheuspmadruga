@@ -4,17 +4,13 @@ I am a student of Analysis and Systems Development (2nd semester), currently emb
 
 I am passionate about problem-solving and eager to apply my knowledge in real-world projects. I am currently building a solid foundation in back-end development, with a focus on:
 
-Java: Focusing on core logic and object-oriented programming.
-
-Python: Exploring its versatility for development and automation.
-
-Django: Learning to build robust and scalable web applications.
+Java, Python and Django.
 
 I am enthusiastic about continuous learning and looking for my first professional opportunity to contribute to development teams.
 
 Civil Engineering - UnP | Analysis and Systems Development - UnP
 
-Currently studying:
+**Currently studying:**
 
 Data structures and algorithms.
 
