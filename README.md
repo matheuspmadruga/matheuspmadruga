@@ -14,14 +14,16 @@ My focus is on **Back-end Development**, where I am building a solid foundation 
 #### 🛠️ Technologies & Tools
 <a href="https://www.python.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.djangoproject.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.java.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.mysql.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
 </a>
-
