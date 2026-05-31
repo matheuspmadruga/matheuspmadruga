@@ -1,4 +1,4 @@
-# **Hi there! I'm Matheus 👋**
+**Hi there! I'm Matheus 👋**
 
 I am a student of Analysis and Systems Development (2nd semester), currently embarking on my journey into software development.
 
