@@ -1,33 +1,27 @@
-**Hi there! I'm Matheus 👋**
+### Hi there! I'm Matheus 👋
 
-I am a student of Analysis and Systems Development (2nd semester), currently embarking on my journey into software development.
+**Transforming analytical thinking into robust software.**
 
-I am passionate about problem-solving and eager to apply my knowledge in real-world projects. I am currently building a solid foundation in back-end development, with a focus on:
+I am navigating an exciting career transition from **Civil Engineering** to **Software Development**. As a 2nd-semester student of Analysis and Systems Development at UnP, I bring a strong background in problem-solving and logical structuring directly into the tech world.
 
-Java, Python and Django.
+My focus is on **Back-end Development**, where I am building a solid foundation to create efficient and scalable applications. I am enthusiastic about continuous learning and am currently seeking my first professional opportunity to contribute to a development team.
 
-I am enthusiastic about continuous learning and looking for my first professional opportunity to contribute to development teams.
+#### 📚 What I'm currently studying
+* **Core:** Data structures and object-oriented programming.
+* **Architecture:** Back-end architecture and RESTful APIs.
+* **Practices:** Web development best practices and clean code.
 
-Civil Engineering - UnP | Analysis and Systems Development - UnP
+#### 🛠️ Technologies & Tools
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+</a>
+<a href="https://www.djangoproject.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django" />
+</a>
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
+</a>
 
-**Currently studying:**
-
-Data structures and algorithms.
-
-Back-end architecture and REST APIs.
-
-Web development best practices.
-
-<div align="left">
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  </a>
-  
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-  
-  <a href="https://www.djangoproject.com" target="_blank">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  </a>
-</div>
